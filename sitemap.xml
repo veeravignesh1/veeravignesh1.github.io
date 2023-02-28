@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://veeravignesh.dev/about.html</loc>
-    <lastmod>2023-02-28T11:02:55.004Z</lastmod>
+    <lastmod>2023-02-28T14:43:44.205Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/index.html</loc>
-    <lastmod>2023-02-28T11:02:55.501Z</lastmod>
+    <lastmod>2023-02-28T14:43:45.233Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts/post-with-code/index.html</loc>
-    <lastmod>2023-02-28T11:02:56.789Z</lastmod>
+    <lastmod>2023-02-28T14:43:47.039Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/posts/slide.html</loc>
+    <lastmod>2023-02-28T14:43:48.485Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts/welcome/index.html</loc>
-    <lastmod>2023-02-28T11:02:57.788Z</lastmod>
+    <lastmod>2023-02-28T14:43:50.377Z</lastmod>
   </url>
 </urlset>
