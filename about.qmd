@@ -1,0 +1,46 @@
+---
+title: "Veera Vignesh"
+image: images/profile.png
+about:
+  id: heading
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/veeravignesh1
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/veeravignesh1
+    - icon: briefcase
+      text: CV
+      href: https://veeravignesh.dev/
+comments: false
+search: false
+---
+
+::: {#heading}
+I am an Enthusiast who loves to explore new technologies. Have experience working in Manufacturing, Banking and R&D. Keen to explore problems at the intersection of Data Science and Manufacturing.
+
+In this site I keep a list of [blog posts](index.qmd) and my learnings
+:::
+
+## Work Experience
+
+🧑‍💻 AI Engineering Consultant \@ Accenture \| November 2022 - Present\
+🧑‍💻 AI Engineering Senior Analyst \@ Accenture \| November 2021 - November 2022\
+🧑‍💻 Data Scientist \@ Axis Bank \| August 2020 - October 2021\
+⚙️ Process Engineer \@ Asahi India Glass Ltd. \| January 2015 - May 2019
+
+## Education
+
+🧑‍💻 PGP in Data Science \| July 2019 - April 2020\
+⚙️ M.Tech. in Design Engineering \| October 2016 - October 2018\
+⚙️ B.E. in Mechanical Engineering \| August 2011 - December 2015
+
+## Projects
+
+## Skills
+
+## Certification
+
+## Publication

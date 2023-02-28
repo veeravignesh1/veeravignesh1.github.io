@@ -1,0 +1,38 @@
+project:
+  type: website
+  preview: 
+    port: 9000
+
+
+website:
+  title: "Veera Vignesh"
+  favicon: images/vv.png
+  navbar:
+    right:
+      - text: Blog
+        href: index.qmd
+      - text: Profile
+        href: about.qmd
+  page-footer:
+    right:
+      - icon: github
+        href: https://github.com/veeravignesh1
+      - icon: twitter
+        href: https://twitter.com/veeravignesh1
+      
+
+  comments: 
+    giscus: 
+        repo: veeravignesh1/veeravignesh.dev
+        theme: transparent_dark
+        loading: lazy
+        mapping: pathname
+format:
+  html:
+    theme:
+      dark: [zephyr,dark.scss]
+      light: [zephyr,light.scss]
+    css: styles.css
+
+
+
