@@ -9,17 +9,40 @@ website:
   favicon: images/vv.png
   navbar:
     right:
-      - text: Blog
+      - text: Home
+        icon: house
         href: index.qmd
-      - text: Profile
-        href: about.qmd
+      - text: Blog
+        icon: newspaper
+        href: posts.qmd
+      - text: Projects
+        icon: database-check
+        href: projects.qmd
+      - text: Books
+        icon: book
+        href: books.qmd
+      - text: "Notes"
+        icon: pen
+        href: notes.qmd
+      - text: Resume
+        icon: briefcase
+        href: static/Veera_Vignesh_Senior_Data_Scientist.pdf
   page-footer:
     right:
       - icon: github
         href: https://github.com/veeravignesh1
       - icon: twitter
         href: https://twitter.com/veeravignesh1
-      
+  sidebar: 
+    # Have used a temporary workaround for the expected behaviour of displaying sidebar in all pages
+    # Have turned off sidebar in other pages that is not required
+    - id: notes
+      title: "Notes"
+      style: floating
+      collapse-level: 2
+      align: left
+      contents:
+        - notes/index.qmd
 
   comments: 
     giscus: 
@@ -32,7 +55,11 @@ format:
     theme:
       dark: [zephyr,dark.scss]
       light: [zephyr,light.scss]
+    # mainfont: Cambria, "Times New Roman", Times, serif
+    fontsize: 1.1rem
     css: styles.css
+    link-external-newwindow: true
+    # link-external-filter: '^(?:http:|https:)\/\/veeravignesh\.dev\/'
 
 
 

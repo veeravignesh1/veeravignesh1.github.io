@@ -1,19 +1,59 @@
 ---
-title: "Blog"
+title: "Veera Vignesh"
+image: /images/profile.png
+about:
+  id: heading
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/veeravignesh1
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/veeravignesh1
 listing:
-  id: post
-  contents: posts
-  sort: "date desc"
-  type: grid
-  page-size: 6
-  categories: numbered
-  sort-ui: true
-  filter-ui: true
-  fields: [image, title, subtitle, categories, description, date]
+  - id: posts
+    contents: posts
+    sort: "date desc"
+    type: grid
+    page-size: 3
+    fields: [image, title, subtitle, categories, description, date]
+  - id: projects
+    contents: projects
+    sort: "date desc"
+    type: grid
+    page-size: 3
+    fields: [image, title, subtitle, categories, description, date]
+  - id: books
+    contents: books
+    sort: "date desc"
+    type: grid
+    page-size: 3
+    fields: [image, title, subtitle, categories, description, date]
+
 page-layout: full
-title-block-banner: false
 comments: false
-image: images/thumbnail.jpg
+search: false
+sidebar: false
 ---
 
+::: {#heading}
+I am an Enthusiast who loves to explore new technologies. Have experience working in Manufacturing, Banking and R&D. Keen to explore problems at the intersection of Data Science and Manufacturing.
 
+In this site I keep a list of [blog posts](index.qmd) and my learnings
+:::
+
+## Posts
+
+::: {#posts}
+:::
+
+## Projects
+
+::: {#projects}
+:::
+
+## Books
+
+::: {#books}
+:::

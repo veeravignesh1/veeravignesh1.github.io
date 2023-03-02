@@ -1,6 +1,6 @@
 ---
 title: "Veera Vignesh"
-image: images/profile.png
+image: /images/profile.png
 about:
   id: heading
   template: trestles
@@ -11,11 +11,21 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/veeravignesh1
-    - icon: briefcase
-      text: CV
-      href: https://veeravignesh.dev/
+listing:
+  id: post
+  contents: posts
+  sort: "date desc"
+  type: grid
+  page-size: 2
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [image, title, subtitle, categories, description, date]
+page-layout: full
 comments: false
 search: false
+sidebar: false
+draft: true
 ---
 
 ::: {#heading}
@@ -36,11 +46,3 @@ In this site I keep a list of [blog posts](index.qmd) and my learnings
 🧑‍💻 PGP in Data Science \| July 2019 - April 2020\
 ⚙️ M.Tech. in Design Engineering \| October 2016 - October 2018\
 ⚙️ B.E. in Mechanical Engineering \| August 2011 - December 2015
-
-## Projects
-
-## Skills
-
-## Certification
-
-## Publication

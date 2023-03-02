@@ -1,0 +1,13 @@
+---
+title: "Notes"
+subtitle: "Notes with side bar"     
+page-layout: full
+toc: false
+anchor-sections: false
+editor: source
+aliases:
+  - /docs/getting-started/installation.html
+image: /images/thumbnail.jpg
+---
+
+## Some sample content

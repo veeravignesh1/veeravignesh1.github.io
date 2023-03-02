@@ -1,0 +1,18 @@
+---
+title: "Books"
+listing:
+  id: books
+  contents: books
+  sort: "date desc"
+  type: grid
+  page-size: 6
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, title, subtitle, categories, description, date]
+page-layout: full
+title-block-banner: false
+comments: false
+image: /images/thumbnail.jpg
+sidebar: false
+---
