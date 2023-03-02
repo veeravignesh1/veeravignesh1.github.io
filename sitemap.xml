@@ -2,30 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://veeravignesh.dev/books.html</loc>
-    <lastmod>2023-03-02T17:56:05.827Z</lastmod>
+    <lastmod>2023-03-02T18:30:59.337Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/index.html</loc>
-    <lastmod>2023-03-02T17:56:06.342Z</lastmod>
+    <lastmod>2023-03-02T18:30:59.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/notes/dagshub.html</loc>
+    <lastmod>2023-03-02T18:31:01.432Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/notes/dvc.html</loc>
+    <lastmod>2023-03-02T18:31:02.402Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/notes.html</loc>
-    <lastmod>2023-03-02T17:56:08.151Z</lastmod>
+    <lastmod>2023-03-02T18:31:02.820Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-02T17:56:09.148Z</lastmod>
+    <lastmod>2023-03-02T18:31:04.031Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts/welcome/index.html</loc>
-    <lastmod>2023-03-02T17:56:10.179Z</lastmod>
+    <lastmod>2023-03-02T18:31:05.068Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts.html</loc>
-    <lastmod>2023-03-02T17:56:10.578Z</lastmod>
+    <lastmod>2023-03-02T18:31:05.458Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/projects.html</loc>
-    <lastmod>2023-03-02T17:56:10.937Z</lastmod>
+    <lastmod>2023-03-02T18:31:05.822Z</lastmod>
   </url>
 </urlset>

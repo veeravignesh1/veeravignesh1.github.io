@@ -7,6 +7,20 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "notes/dagshub.html",
+    "href": "notes/dagshub.html",
+    "title": "DagsHub",
+    "section": "",
+    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin"
+  },
+  {
+    "objectID": "notes/dvc.html",
+    "href": "notes/dvc.html",
+    "title": "DVC",
+    "section": "",
+    "text": "Content of DVC page"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",

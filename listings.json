@@ -18,6 +18,13 @@
     ]
   },
   {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/dagshub.html",
+      "/notes/dvc.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/post-with-code/index.html",
