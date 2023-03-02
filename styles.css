@@ -1,8 +1,13 @@
 /* css styles */
+
 .navbar {
     font-size: 1.1rem;
 }
 
 .navbar-title{
     font-size: 1.3rem;
+}
+
+body{
+    font-size: 1.1rem;
 }
