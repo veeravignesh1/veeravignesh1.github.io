@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://veeravignesh.dev/about.html</loc>
-    <lastmod>2023-02-28T14:43:44.205Z</lastmod>
+    <loc>https://veeravignesh.dev/books.html</loc>
+    <lastmod>2023-03-02T16:35:36.865Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/index.html</loc>
-    <lastmod>2023-02-28T14:43:45.233Z</lastmod>
+    <lastmod>2023-03-02T16:35:37.458Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/notes.html</loc>
+    <lastmod>2023-03-02T16:35:38.992Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts/post-with-code/index.html</loc>
-    <lastmod>2023-02-28T14:43:47.039Z</lastmod>
-  </url>
-  <url>
-    <loc>https://veeravignesh.dev/posts/slide.html</loc>
-    <lastmod>2023-02-28T14:43:48.485Z</lastmod>
+    <lastmod>2023-03-02T16:35:39.979Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts/welcome/index.html</loc>
-    <lastmod>2023-02-28T14:43:50.377Z</lastmod>
+    <lastmod>2023-03-02T16:35:41.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/posts.html</loc>
+    <lastmod>2023-03-02T16:35:41.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/projects.html</loc>
+    <lastmod>2023-03-02T16:35:41.908Z</lastmod>
   </url>
 </urlset>
