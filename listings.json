@@ -1,27 +1,17 @@
 [
   {
-    "listing": "/about.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/books.html",
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/about.html",
     "items": [
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/dagshub.html",
-      "/notes/dvc.html"
     ]
   },
   {
@@ -32,7 +22,21 @@
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/resources/index.html",
     "items": []
+  },
+  {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/dagshub.html",
+      "/notes/dvc.html"
+    ]
   }
 ]

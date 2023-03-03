@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://veeravignesh.dev/books.html</loc>
-    <lastmod>2023-03-02T18:30:59.337Z</lastmod>
-  </url>
-  <url>
-    <loc>https://veeravignesh.dev/index.html</loc>
-    <lastmod>2023-03-02T18:30:59.957Z</lastmod>
-  </url>
-  <url>
-    <loc>https://veeravignesh.dev/notes/dagshub.html</loc>
-    <lastmod>2023-03-02T18:31:01.432Z</lastmod>
-  </url>
-  <url>
-    <loc>https://veeravignesh.dev/notes/dvc.html</loc>
-    <lastmod>2023-03-02T18:31:02.402Z</lastmod>
-  </url>
-  <url>
-    <loc>https://veeravignesh.dev/notes.html</loc>
-    <lastmod>2023-03-02T18:31:02.820Z</lastmod>
-  </url>
-  <url>
     <loc>https://veeravignesh.dev/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-02T18:31:04.031Z</lastmod>
+    <lastmod>2023-03-03T18:22:33.824Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts/welcome/index.html</loc>
-    <lastmod>2023-03-02T18:31:05.068Z</lastmod>
+    <lastmod>2023-03-03T18:22:36.328Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/posts.html</loc>
-    <lastmod>2023-03-02T18:31:05.458Z</lastmod>
+    <loc>https://veeravignesh.dev/books.html</loc>
+    <lastmod>2023-03-03T18:22:36.648Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/projects.html</loc>
-    <lastmod>2023-03-02T18:31:05.822Z</lastmod>
+    <lastmod>2023-03-03T18:22:36.964Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/posts.html</loc>
+    <lastmod>2023-03-03T18:22:37.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/notes/dagshub.html</loc>
+    <lastmod>2023-03-03T18:22:38.460Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/notes/dvc.html</loc>
+    <lastmod>2023-03-03T18:22:39.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/index.html</loc>
+    <lastmod>2023-03-03T18:22:39.504Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/resources/index.html</loc>
+    <lastmod>2023-03-03T18:22:40.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/notes.html</loc>
+    <lastmod>2023-03-03T18:22:40.576Z</lastmod>
   </url>
 </urlset>

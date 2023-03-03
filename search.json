@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "notes/dagshub.html",
-    "href": "notes/dagshub.html",
-    "title": "DagsHub",
-    "section": "",
-    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin"
-  },
-  {
-    "objectID": "notes/dvc.html",
-    "href": "notes/dvc.html",
-    "title": "DVC",
-    "section": "",
-    "text": "Content of DVC page"
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -42,11 +21,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\nAnother page"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nblog\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFeb 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
@@ -54,5 +33,68 @@
     "title": "Projects",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nblog\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFeb 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "notes/dagshub.html",
+    "href": "notes/dagshub.html",
+    "title": "DagsHub",
+    "section": "",
+    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin"
+  },
+  {
+    "objectID": "notes/dagshub.html#how-to-download-datasets-hosted-on-dagshub",
+    "href": "notes/dagshub.html#how-to-download-datasets-hosted-on-dagshub",
+    "title": "DagsHub",
+    "section": "",
+    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin"
+  },
+  {
+    "objectID": "notes/dvc.html",
+    "href": "notes/dvc.html",
+    "title": "DVC",
+    "section": "",
+    "text": "Content of DVC page"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Veera Vignesh",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am an Enthusiast who loves to explore new technologies. Have experience working in Manufacturing, Banking and R&D. Keen to explore problems at the intersection of Data Science and Manufacturing.\nIn this site I keep a list of blog posts and my learnings"
+  },
+  {
+    "objectID": "index.html#posts",
+    "href": "index.html#posts",
+    "title": "Veera Vignesh",
+    "section": "Posts",
+    "text": "Posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nblog\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFeb 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Veera Vignesh",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#books",
+    "href": "index.html#books",
+    "title": "Veera Vignesh",
+    "section": "Books",
+    "text": "Books\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          url\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nurl\n\n\n\n\n\n\nAuthoring\n\n\n Some Content \n\n\n\n\nOther\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
