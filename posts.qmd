@@ -11,10 +11,7 @@ listing:
   filter-ui: true
   fields: [image, title, subtitle, categories, description, date]
 page-layout: full
-title-block-banner: false
 comments: false
 image: /images/thumbnail.jpg
 sidebar: false
 ---
-
-

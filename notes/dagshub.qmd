@@ -1,0 +1,12 @@
+---
+title: "DagsHub"
+date: "2023-03-02"
+categories: [docker]
+---
+
+## How to download datasets Hosted on DagsHub
+
+1.  Download the git repo using `git clone`
+2.  Move into the cloned repo `cd`
+3.  Ensure dvc is installed using `pip install dvc`
+4.  Run `dvc pull -r origin`

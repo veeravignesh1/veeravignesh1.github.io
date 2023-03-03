@@ -3,7 +3,7 @@ title: "Veera Vignesh"
 image: /images/profile.png
 about:
   id: heading
-  template: trestles
+  template: solana
   links:
     - icon: github
       text: Github

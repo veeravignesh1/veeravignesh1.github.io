@@ -1,9 +1,11 @@
 ---
 title: "Veera Vignesh"
-image: /images/profile.png
+
 about:
   id: heading
   template: trestles
+  image: /images/profile.png
+  image-width: 17rem
   links:
     - icon: github
       text: Github

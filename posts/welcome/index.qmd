@@ -1,6 +1,5 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
 date: "2023-02-25"
 categories: [news]
 image: thumbnail.jpg
@@ -12,24 +11,4 @@ This is the first post in a Quarto blog. Welcome!
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 
-<ul class="nav nav-pills" id="hello-quarto-tab" role="tablist">
-  <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="python-tab" data-bs-toggle="tab" data-bs-target="#python" type="button" role="tab" aria-controls="python" aria-selected="true">Python</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button class="nav-link" id="knitr-tab" data-bs-toggle="tab" data-bs-target="#knitr" type="button" role="tab" aria-controls="knitr" aria-selected="false">R</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button class="nav-link" id="julia-tab" data-bs-toggle="tab" data-bs-target="#julia" type="button" role="tab" aria-controls="julia" aria-selected="false">Julia</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button class="nav-link" id="observable-tab" data-bs-toggle="tab" data-bs-target="#observable" type="button" role="tab" aria-controls="observable" aria-selected="false">Observable</button>
-  </li>
-</ul>
-
-::: {.panel-tabset}
-## First
-some
-
-## Second
-:::
+[Another page](../post-with-code#link_this)

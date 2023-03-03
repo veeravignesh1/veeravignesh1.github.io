@@ -1,13 +1,19 @@
 ---
 title: "Notes"
-subtitle: "Notes with side bar"     
+listing:
+  id: notes
+  contents: notes
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, title, subtitle, categories, description, date]
 page-layout: full
-toc: false
-anchor-sections: false
-editor: source
-aliases:
-  - /docs/getting-started/installation.html
+title-block-banner: false
+comments: false
 image: /images/thumbnail.jpg
+sidebar: true
 ---
 
 ## Some sample content

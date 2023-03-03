@@ -1,9 +1,11 @@
 project:
   type: website
   preview: 
-    port: 9000
+    port: 7000
 
-
+metadata-files: 
+  - _sidebar.yml
+  
 website:
   title: "Veera Vignesh"
   favicon: images/vv.png
@@ -28,7 +30,15 @@ website:
         icon: briefcase
         href: static/Veera_Vignesh_Senior_Data_Scientist.pdf
   page-footer:
+    left:
+      <i class="bi bi-c-circle"></i> Veera Vignesh 2023
+    center: 
+      - icon: bookmark
+        text: Resources
+        href: resources/index.qmd
     right:
+      - icon: code
+        href: https://github.com/veeravignesh1/veeravignesh.dev/
       - icon: github
         href: https://github.com/veeravignesh1
       - icon: twitter
@@ -42,7 +52,8 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - notes/index.qmd
+        - notes/dagshub.qmd
+        - notes/dvc.qmd
 
   comments: 
     giscus: 

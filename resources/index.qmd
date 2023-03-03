@@ -1,0 +1,16 @@
+---
+title: "Resources"
+subtitle: These resources are Auto populated from my Notion DB
+page-layout: article
+anchor-sections: false
+search: true
+listing:
+  id: guide-links
+  type: table
+  contents: resource.yml
+image: /images/hero_right.png
+sidebar: false
+---
+
+::: {#guide-links .column-screen-inset-right style="max-width: 850px;"}
+:::
