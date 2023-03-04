@@ -13,6 +13,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/veeravignesh1
+    - text: Resume
+      icon: briefcase
+      href: static/Veera_Vignesh_Senior_Data_Scientist.pdf
 listing:
   - id: posts
     contents: posts
@@ -40,10 +43,27 @@ sidebar: false
 ---
 
 ::: {#heading}
-I am an Enthusiast who loves to explore new technologies. Have experience working in Manufacturing, Banking and R&D. Keen to explore problems at the intersection of Data Science and Manufacturing.
+Hello, I'm **Veera Vignesh**, a technology enthusiast with a passion for exploring the latest innovations In the field of AI. I'm currently engaged in exciting projects in the field of Audio ML and NLP, which keeps me challenged and engaged.
 
-In this site I keep a list of [blog posts](index.qmd) and my learnings
+I specialize in building and deploying scalable solutions in both on-premises and cloud environments, with deep expertise on AWS. I have been involved in designing, developing and scaling many large scale AI products.
+
+As a lifelong learner, I'm committed to sharing my knowledge with the community and learning from others. I use this site as my second-brain listing the [resources](resources/index.qmd), [blog](posts.qmd) and [projects](projects.qmd).
 :::
+
+## Languages
+
+[{{< var badge.python >}}](/posts) {{< var badge.r >}} {{< var badge.julia >}}
+
+## Skills
+
+<p align="left">
+
+<h2>Social</h2>
+
+<img src="https://img.shields.io/badge/Website-Veera%20Vignesh-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+
+</p>
+
 
 ## Posts
 
@@ -55,7 +75,9 @@ In this site I keep a list of [blog posts](index.qmd) and my learnings
 ::: {#projects}
 :::
 
-## Books
+```{=html}
+<!-- ## Books
 
 ::: {#books}
-:::
+::: -->
+```

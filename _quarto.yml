@@ -21,15 +21,16 @@ website:
       - text: Projects
         icon: database-check
         href: projects.qmd
-      - text: Books
-        icon: book
-        href: books.qmd
+      # - text: Books
+      #   icon: book
+      #   href: books.qmd
       - text: "Notes"
         icon: pen
         href: notes.qmd
-      - text: Resume
-        icon: briefcase
+      - icon: briefcase
         href: static/Veera_Vignesh_Senior_Data_Scientist.pdf
+      - icon: linkedin
+        href: https://linkedin.com/in/veeravignesh1
   page-footer:
     border: true
     left:
@@ -39,6 +40,8 @@ website:
         text: Resources
         href: resources/index.qmd
     right:
+      - icon: linkedin
+        href: https://linkedin.com/in/veeravignesh1
       - icon: code
         href: https://github.com/veeravignesh1/veeravignesh.dev/
       - icon: github
