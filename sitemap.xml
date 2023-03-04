@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://veeravignesh.dev/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-03T18:40:13.765Z</lastmod>
-  </url>
-  <url>
-    <loc>https://veeravignesh.dev/posts/welcome/index.html</loc>
-    <lastmod>2023-03-03T18:40:16.517Z</lastmod>
+    <loc>https://veeravignesh.dev/posts/coming_soon/index.html</loc>
+    <lastmod>2023-03-04T03:17:42.889Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/books.html</loc>
-    <lastmod>2023-03-03T18:40:16.901Z</lastmod>
+    <lastmod>2023-03-04T03:17:44.141Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/projects.html</loc>
-    <lastmod>2023-03-03T18:40:17.273Z</lastmod>
+    <lastmod>2023-03-04T03:17:44.637Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/posts.html</loc>
-    <lastmod>2023-03-03T18:40:18.245Z</lastmod>
+    <lastmod>2023-03-04T03:17:45.553Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/notes/dagshub.html</loc>
-    <lastmod>2023-03-03T18:40:19.105Z</lastmod>
+    <lastmod>2023-03-04T03:17:46.377Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/notes/dvc.html</loc>
-    <lastmod>2023-03-03T18:40:19.949Z</lastmod>
+    <lastmod>2023-03-04T03:17:47.213Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/index.html</loc>
-    <lastmod>2023-03-03T18:40:20.449Z</lastmod>
+    <lastmod>2023-03-04T03:17:47.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://veeravignesh.dev/projects/coming_soon/index.html</loc>
+    <lastmod>2023-03-04T03:17:48.549Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/resources/index.html</loc>
-    <lastmod>2023-03-03T18:40:21.337Z</lastmod>
+    <lastmod>2023-03-04T03:17:49.405Z</lastmod>
   </url>
   <url>
     <loc>https://veeravignesh.dev/notes.html</loc>
-    <lastmod>2023-03-03T18:40:21.781Z</lastmod>
+    <lastmod>2023-03-04T03:17:49.877Z</lastmod>
   </url>
 </urlset>

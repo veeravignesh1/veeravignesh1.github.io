@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post to show how the blog is created"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#link-this",
-    "href": "posts/post-with-code/index.html#link-this",
-    "title": "Post With Code",
-    "section": "link this",
-    "text": "link this"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\nAnother page"
-  },
-  {
     "objectID": "books.html",
     "href": "books.html",
     "title": "Books",
@@ -32,14 +11,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nblog\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFeb 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "notes/dagshub.html",
@@ -74,14 +53,14 @@
     "href": "index.html#posts",
     "title": "Veera Vignesh",
     "section": "Posts",
-    "text": "Posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nblog\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFeb 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Posts\n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Veera Vignesh",
     "section": "Projects",
-    "text": "Projects\n\n\n\n\n\nNo matching items"
+    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#books",

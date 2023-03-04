@@ -5,27 +5,27 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/coming_soon/index.html"
+    ]
   },
   {
     "listing": "/about.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/coming_soon/index.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/coming_soon/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/coming_soon/index.html",
+      "/projects/coming_soon/index.html"
     ]
   },
   {
