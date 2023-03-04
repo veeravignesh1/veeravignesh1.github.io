@@ -50,20 +50,18 @@ I specialize in building and deploying scalable solutions in both on-premises an
 As a lifelong learner, I'm committed to sharing my knowledge with the community and learning from others. I use this site as my second-brain listing the [resources](resources/index.qmd), [blog](posts.qmd) and [projects](projects.qmd).
 :::
 
-## Languages
+<!-- [{{< var badge.python >}}](/posts) {{< var badge.r >}}  -->
 
-[{{< var badge.python >}}](/posts) {{< var badge.r >}} {{< var badge.julia >}}
 
-## Skills
-
-<p align="left">
-
-<h2>Social</h2>
-
-<img src="https://img.shields.io/badge/Website-Veera%20Vignesh-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-
-</p>
-
+<!-- {{< var badge.pytorch >}} {{< var badge.tensorflow >}} {{< var badge.scikit-learn >}} {{< var badge.rasa >}}
+{{< var badge.pytorch_lightning >}} {{< var badge.fastapi >}} {{< var badge.flask >}} {{< var badge.pandas >}} {{< var badge.numpy >}}
+{{< var badge.amazon_api_gateway >}} {{< var badge.amazon_aws >}} {{< var badge.amazon_ec2 >}} {{< var badge.amazon_rds >}} {{< var badge.amazon_s3 >}} {{< var badge.aws_lambda >}}
+{{< var badge.cookiecutter >}} {{< var badge.docker >}} {{< var badge.dvc >}} {{< var badge.git >}} {{< var badge.github >}} {{< var badge.github_actions >}} {{< var badge.gunicorn >}} {{< var badge.mlflow >}} {{< var badge.nginx >}} {{< var badge.shell >}}
+{{< var badge.mysql >}} {{< var badge.mongodb >}} {{< var badge.postgresql >}}
+{{< var badge.ubuntu >}} {{< var badge.windows_11 >}}
+{{< var badge.coursera >}} {{< var badge.datacamp >}} {{< var badge.freecodecamp >}} {{< var badge.credly >}} {{< var badge.goodreads >}} {{< var badge.google_domains >}} {{< var badge.hackerearth >}} {{< var badge.hackerrank >}} {{< var badge.heroku >}} {{< var badge.nvidia >}} {{< var badge.openai >}} {{< var badge.opentelemetry >}}
+{{< var badge.arxiv >}} {{< var badge.zotero >}}
+{{< var badge.tableau >}} -->
 
 ## Posts
 
@@ -75,9 +73,8 @@ As a lifelong learner, I'm committed to sharing my knowledge with the community 
 ::: {#projects}
 :::
 
-```{=html}
+
 <!-- ## Books
 
 ::: {#books}
 ::: -->
-```

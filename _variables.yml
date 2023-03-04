@@ -102,20 +102,20 @@ badge:
   alwaysdata: <img src="https://img.shields.io/badge/alwaysdata-E9568E?style=for-the-badge&logo=alwaysdata&logoColor=white"/>
   amazon: <img src="https://img.shields.io/badge/amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
   amazon_alexa: <img src="https://img.shields.io/badge/amazon_alexa-00CAFF?style=for-the-badge&logo=amazon_alexa&logoColor=white"/>
-  amazon_api_gateway: <img src="https://img.shields.io/badge/amazon_api_gateway-FF4F8B?style=for-the-badge&logo=amazon_api_gateway&logoColor=white"/>
-  amazon_aws: <img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazon_aws&logoColor=white"/>
-  amazon_cloudwatch: <img src="https://img.shields.io/badge/amazon_cloudwatch-FF4F8B?style=for-the-badge&logo=amazon_cloudwatch&logoColor=white"/>
-  amazon_dynamodb: <img src="https://img.shields.io/badge/amazon_dynamodb-4053D6?style=for-the-badge&logo=amazon_dynamodb&logoColor=white"/>
-  amazon_ec2: <img src="https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazon_ec2&logoColor=white"/>
-  amazon_ecs: <img src="https://img.shields.io/badge/amazon_ecs-FF9900?style=for-the-badge&logo=amazon_ecs&logoColor=white"/>
-  amazon_eks: <img src="https://img.shields.io/badge/amazon_eks-FF9900?style=for-the-badge&logo=amazon_eks&logoColor=white"/>
+  amazon_api_gateway: <img src="https://img.shields.io/badge/amazon_api_gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+  amazon_aws: <img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  amazon_cloudwatch: <img src="https://img.shields.io/badge/amazon_cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  amazon_dynamodb: <img src="https://img.shields.io/badge/amazon_dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  amazon_ec2: <img src="https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  amazon_ecs: <img src="https://img.shields.io/badge/amazon_ecs-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  amazon_eks: <img src="https://img.shields.io/badge/amazon_eks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
   amazon_fire_tv: <img src="https://img.shields.io/badge/amazon_fire_tv-FC4C02?style=for-the-badge&logo=amazon_fire_tv&logoColor=white"/>
   amazon_games: <img src="https://img.shields.io/badge/amazon_games-FF9900?style=for-the-badge&logo=amazon_games&logoColor=white"/>
   amazon_lumberyard: <img src="https://img.shields.io/badge/amazon_lumberyard-66459B?style=for-the-badge&logo=amazon_lumberyard&logoColor=white"/>
   amazon_pay: <img src="https://img.shields.io/badge/amazon_pay-FF9900?style=for-the-badge&logo=amazon_pay&logoColor=white"/>
   amazon_prime: <img src="https://img.shields.io/badge/amazon_prime-00A8E1?style=for-the-badge&logo=amazon_prime&logoColor=white"/>
-  amazon_rds: <img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazon_rds&logoColor=white"/>
-  amazon_s3: <img src="https://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazon_s3&logoColor=white"/>
+  amazon_rds: <img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  amazon_s3: <img src="https://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   amazon_sqs: <img src="https://img.shields.io/badge/amazon_sqs-FF4F8B?style=for-the-badge&logo=amazon_sqs&logoColor=white"/>
   amd: <img src="https://img.shields.io/badge/amd-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   american_airlines: <img src="https://img.shields.io/badge/american_airlines-0078D2?style=for-the-badge&logo=american_airlines&logoColor=white"/>
@@ -235,7 +235,7 @@ badge:
   awesomewm: <img src="https://img.shields.io/badge/awesomewm-535D6C?style=for-the-badge&logo=awesomewm&logoColor=white"/>
   aws_amplify: <img src="https://img.shields.io/badge/aws_amplify-FF9900?style=for-the-badge&logo=aws_amplify&logoColor=white"/>
   aws_fargate: <img src="https://img.shields.io/badge/aws_fargate-FF9900?style=for-the-badge&logo=aws_fargate&logoColor=white"/>
-  aws_lambda: <img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=aws_lambda&logoColor=white"/>
+  aws_lambda: <img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
   axios: <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
   azure_artifacts: <img src="https://img.shields.io/badge/azure_artifacts-CB2E6D?style=for-the-badge&logo=azure_artifacts&logoColor=white"/>
   azure_data_explorer: <img src="https://img.shields.io/badge/azure_data_explorer-0078D4?style=for-the-badge&logo=azure_data_explorer&logoColor=white"/>
