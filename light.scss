@@ -1,2 +1,7 @@
 /*-- scss:defaults --*/
 // Base document colors
+
+/*-- scss:rules --*/
+#title-block-header.quarto-title-block.default .quarto-title .title {
+    color: white;
+}

@@ -10,6 +10,7 @@ website:
   title: "Veera Vignesh"
   favicon: images/vv.png
   navbar:
+    pinned: true
     right:
       - text: Home
         icon: house
@@ -30,6 +31,7 @@ website:
         icon: briefcase
         href: static/Veera_Vignesh_Senior_Data_Scientist.pdf
   page-footer:
+    border: true
     left:
       <i class="bi bi-c-circle"></i> Veera Vignesh 2023
     center: 
