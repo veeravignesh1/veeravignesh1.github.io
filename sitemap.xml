@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://veeravignesh.dev/posts/coming_soon/index.html</loc>
-    <lastmod>2023-03-05T13:56:20.713Z</lastmod>
+    <loc>https://notes/dagshub.html</loc>
+    <lastmod>2024-07-06T16:58:57.508Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/books.html</loc>
-    <lastmod>2023-03-05T13:56:26.665Z</lastmod>
+    <loc>https://notes/dvc.html</loc>
+    <lastmod>2024-07-06T16:59:00.612Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/projects.html</loc>
-    <lastmod>2023-03-05T13:56:29.464Z</lastmod>
+    <loc>https://projects/coming_soon/index.html</loc>
+    <lastmod>2024-07-06T16:59:03.480Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/posts.html</loc>
-    <lastmod>2023-03-05T13:56:35.092Z</lastmod>
+    <loc>https://posts/coming_soon/index.html</loc>
+    <lastmod>2024-07-06T16:59:06.036Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/notes/dagshub.html</loc>
-    <lastmod>2023-03-05T13:56:38.300Z</lastmod>
+    <loc>https://resources/index.html</loc>
+    <lastmod>2024-07-06T16:59:13.752Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/notes/dvc.html</loc>
-    <lastmod>2023-03-05T13:56:41.340Z</lastmod>
+    <loc>https://index.html</loc>
+    <lastmod>2024-07-06T16:59:16.120Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/index.html</loc>
-    <lastmod>2023-03-05T13:56:44.176Z</lastmod>
+    <loc>https://notes.html</loc>
+    <lastmod>2024-07-06T16:59:18.392Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/projects/coming_soon/index.html</loc>
-    <lastmod>2023-03-05T13:56:47.224Z</lastmod>
+    <loc>https://books.html</loc>
+    <lastmod>2024-07-06T16:59:23.020Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/resources/index.html</loc>
-    <lastmod>2023-03-05T13:56:50.336Z</lastmod>
+    <loc>https://posts.html</loc>
+    <lastmod>2024-07-06T16:59:25.228Z</lastmod>
   </url>
   <url>
-    <loc>https://veeravignesh.dev/notes.html</loc>
-    <lastmod>2023-03-05T13:56:53.132Z</lastmod>
+    <loc>https://projects.html</loc>
+    <lastmod>2024-07-06T16:59:27.440Z</lastmod>
   </url>
 </urlset>

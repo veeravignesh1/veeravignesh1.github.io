@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "notes/dagshub.html",
     "href": "notes/dagshub.html",
     "title": "DagsHub",
@@ -40,6 +19,13 @@
     "title": "DVC",
     "section": "",
     "text": "Content of DVC page"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          url\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nurl\n\n\n\n\n\n\nAuthoring\n\n\n Some Content \n\n\n\n\nOther\n\n\n Personal Blog\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -63,10 +49,24 @@
     "text": "Projects\n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          url\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nurl\n\n\n\n\n\n\nAuthoring\n\n\n Some Content \n\n\n\n\nOther\n\n\n Personal Blog\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
