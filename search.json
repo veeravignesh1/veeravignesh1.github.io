@@ -1,72 +1,60 @@
 [
   {
-    "objectID": "notes/dagshub.html",
-    "href": "notes/dagshub.html",
-    "title": "DagsHub",
-    "section": "",
-    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin"
-  },
-  {
-    "objectID": "notes/dagshub.html#how-to-download-datasets-hosted-on-dagshub",
-    "href": "notes/dagshub.html#how-to-download-datasets-hosted-on-dagshub",
-    "title": "DagsHub",
-    "section": "",
-    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin"
-  },
-  {
-    "objectID": "notes/dvc.html",
-    "href": "notes/dvc.html",
-    "title": "DVC",
-    "section": "",
-    "text": "Content of DVC page"
-  },
-  {
     "objectID": "resources/index.html",
     "href": "resources/index.html",
     "title": "Resources",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          url\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nurl\n\n\n\n\n\n\nAuthoring\n\n\n Some Content \n\n\n\n\nOther\n\n\n Personal Blog\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Veera Vignesh",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Resume\n  \n\n  \n  \nHello, I’m Veera Vignesh, a technology enthusiast with a passion for exploring the latest innovations In the field of AI. I’m currently engaged in exciting projects in the field of Audio ML and NLP, which keeps me challenged and engaged.\nI specialize in building and deploying scalable solutions in both on-premises and cloud environments, with deep expertise on AWS. I have been involved in designing, developing and scaling many large scale AI products.\nAs a lifelong learner, I’m committed to sharing my knowledge with the community and learning from others. I use this site as my second-brain listing the resources, blog and projects."
-  },
-  {
-    "objectID": "index.html#posts",
-    "href": "index.html#posts",
-    "title": "Veera Vignesh",
-    "section": "Posts",
-    "text": "Posts\n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Veera Vignesh",
-    "section": "Projects",
-    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        url\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nurl\n\n\n\n\n\n\n\n\nAuthoring\n\n\n Some Content \n\n\n\n\n\n\nOther\n\n\n Personal Blog\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "notes/dvc.html",
+    "href": "notes/dvc.html",
+    "title": "DVC",
+    "section": "",
+    "text": "Content of DVC page",
+    "crumbs": [
+      "DVC"
+    ]
+  },
+  {
+    "objectID": "notes/dagshub.html",
+    "href": "notes/dagshub.html",
+    "title": "DagsHub",
+    "section": "",
+    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin",
+    "crumbs": [
+      "DagsHub"
+    ]
+  },
+  {
+    "objectID": "notes/dagshub.html#how-to-download-datasets-hosted-on-dagshub",
+    "href": "notes/dagshub.html#how-to-download-datasets-hosted-on-dagshub",
+    "title": "DagsHub",
+    "section": "",
+    "text": "Download the git repo using git clone\nMove into the cloned repo cd\nEnsure dvc is installed using pip install dvc\nRun dvc pull -r origin",
+    "crumbs": [
+      "DagsHub"
+    ]
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorking on something exciting\n\n\nComing soon\n\n\n\nblog\n\n\n\n\n\n\n\nMar 4, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]

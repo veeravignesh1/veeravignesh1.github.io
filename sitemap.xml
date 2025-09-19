@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://notes/dagshub.html</loc>
-    <lastmod>2024-07-06T16:58:57.508Z</lastmod>
-  </url>
-  <url>
-    <loc>https://notes/dvc.html</loc>
-    <lastmod>2024-07-06T16:59:00.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://projects/coming_soon/index.html</loc>
-    <lastmod>2024-07-06T16:59:03.480Z</lastmod>
-  </url>
-  <url>
-    <loc>https://posts/coming_soon/index.html</loc>
-    <lastmod>2024-07-06T16:59:06.036Z</lastmod>
-  </url>
-  <url>
     <loc>https://resources/index.html</loc>
-    <lastmod>2024-07-06T16:59:13.752Z</lastmod>
+    <lastmod>2025-09-19T01:21:49.649Z</lastmod>
   </url>
   <url>
     <loc>https://index.html</loc>
-    <lastmod>2024-07-06T16:59:16.120Z</lastmod>
-  </url>
-  <url>
-    <loc>https://notes.html</loc>
-    <lastmod>2024-07-06T16:59:18.392Z</lastmod>
-  </url>
-  <url>
-    <loc>https://books.html</loc>
-    <lastmod>2024-07-06T16:59:23.020Z</lastmod>
+    <lastmod>2025-09-19T01:21:49.647Z</lastmod>
   </url>
   <url>
     <loc>https://posts.html</loc>
-    <lastmod>2024-07-06T16:59:25.228Z</lastmod>
+    <lastmod>2025-09-19T01:21:49.648Z</lastmod>
+  </url>
+  <url>
+    <loc>https://notes/dvc.html</loc>
+    <lastmod>2025-09-19T01:21:49.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://projects/coming_soon/index.html</loc>
+    <lastmod>2025-09-19T01:21:49.648Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posts/coming_soon/index.html</loc>
+    <lastmod>2025-09-19T01:21:49.648Z</lastmod>
+  </url>
+  <url>
+    <loc>https://notes/dagshub.html</loc>
+    <lastmod>2025-09-19T01:21:49.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://notes.html</loc>
+    <lastmod>2025-09-19T01:21:49.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://books.html</loc>
+    <lastmod>2025-09-19T01:21:49.642Z</lastmod>
   </url>
   <url>
     <loc>https://projects.html</loc>
-    <lastmod>2024-07-06T16:59:27.440Z</lastmod>
+    <lastmod>2025-09-19T01:21:49.648Z</lastmod>
   </url>
 </urlset>

@@ -11,27 +11,27 @@
     ]
   },
   {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/dagshub.html",
-      "/notes/dvc.html"
-    ]
-  },
-  {
     "listing": "/about.html",
     "items": [
       "/posts/coming_soon/index.html"
     ]
   },
   {
-    "listing": "/books.html",
-    "items": []
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/posts/coming_soon/index.html"
     ]
+  },
+  {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/dvc.html",
+      "/notes/dagshub.html"
+    ]
+  },
+  {
+    "listing": "/books.html",
+    "items": []
   },
   {
     "listing": "/projects.html",
