@@ -4,13 +4,6 @@
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/coming_soon/index.html",
-      "/projects/coming_soon/index.html"
-    ]
-  },
-  {
     "listing": "/about.html",
     "items": [
       "/posts/coming_soon/index.html"

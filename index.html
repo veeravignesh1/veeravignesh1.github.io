@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/vv.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -42,8 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b651517ce65839d647a86e2780455cfb.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dd4275fa79fa4f03b40d97da51d82c9d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-19f63c773e7adf48148845e8ce68954f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f7f33f81a79499db13d3a621e1b0b8f0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-bfba0793aaf22449e9436229919c5b26.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,123 +69,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-categories','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-posts'] = new List('listing-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-categories','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-books .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-categories','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-books'] = new List('listing-books', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
@@ -380,24 +263,9 @@ window.Quarto = {
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> <i class="bi bi-database-check" role="img">
-</i> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./notes.html"> <i class="bi bi-pen" role="img">
+    <a class="nav-link" href="https://veeravignesh1.github.io/pkm"> <i class="bi bi-pen" role="img">
 </i> 
 <span class="menu-text">Notes</span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="./static/Veera_Vignesh_Senior_Data_Scientist.pdf"> <i class="bi bi-briefcase" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://linkedin.com/in/veeravignesh1"> <i class="bi bi-linkedin" role="img">
-</i> 
-<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -452,105 +320,11 @@ window.Quarto = {
 </div></div>
 </div>
 
-<!-- [](/posts)   -->
-<!--    
-    
-     
-         
-  
- 
-           
- 
- -->
-<section id="posts" class="level2">
-<h2 data-anchor-id="posts">Posts</h2>
-<div id="listing-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="YmxvZw==" data-listing-date-sort="1677888000000" data-listing-file-modified-sort="1758244909648" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./posts/coming_soon/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/placeholder_image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Working on something exciting
-</h5>
-<div class="card-subtitle listing-subtitle">
-Coming soon
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YmxvZw=='); return false;">blog</div>
-
-</div>
-<div class="card-text listing-description delink">
-
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 4, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="projects" class="level2">
-<h2 data-anchor-id="projects">Projects</h2>
-<div id="listing-projects" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="YmxvZw==" data-listing-date-sort="1677888000000" data-listing-file-modified-sort="1758244909648" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./projects/coming_soon/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/placeholder_image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Working on something exciting
-</h5>
-<div class="card-subtitle listing-subtitle">
-Coming soon
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YmxvZw=='); return false;">blog</div>
-
-</div>
-<div class="card-text listing-description delink">
-
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 4, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<!-- ## Books
-
-::: {#books}
-::: -->
 
 
 
 
-</section>
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-books">
-<div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -966,16 +740,10 @@ Mar 4, 2023
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><i class="bi bi-c-circle"></i> Veera Vignesh 2023</p>
+<p><i class="bi bi-c-circle"></i> Veera Vignesh 2025</p>
 </div>   
     <div class="nav-footer-center">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="./resources/index.html">
-<p>Resources</p>
-</a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
@@ -986,20 +754,8 @@ Mar 4, 2023
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/veeravignesh1/veeravignesh.dev/">
-      <i class="bi bi-code" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/veeravignesh1">
       <i class="bi bi-github" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/veeravignesh1">
-      <i class="bi bi-twitter" role="img">
 </i> 
     </a>
   </li>  
