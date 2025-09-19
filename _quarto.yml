@@ -18,36 +18,28 @@ website:
       - text: Blog
         icon: newspaper
         href: posts.qmd
-      - text: Projects
-        icon: database-check
-        href: projects.qmd
+      # - text: Projects
+      #   icon: database-check
+      #   href: projects.qmd
       # - text: Books
       #   icon: book
       #   href: books.qmd
       - text: "Notes"
         icon: pen
-        href: notes.qmd
-      - icon: briefcase
-        href: static/Veera_Vignesh_Senior_Data_Scientist.pdf
-      - icon: linkedin
-        href: https://linkedin.com/in/veeravignesh1
+        href: https://veeravignesh1.github.io/pkm
+      # - icon: briefcase
+      #   href: static/Veera_Vignesh_Senior_Data_Scientist.pdf
   page-footer:
     border: true
     left:
-      <i class="bi bi-c-circle"></i> Veera Vignesh 2023
-    center: 
-      - icon: bookmark
-        text: Resources
-        href: resources/index.qmd
+      <i class="bi bi-c-circle"></i> Veera Vignesh 2025
+
     right:
       - icon: linkedin
         href: https://linkedin.com/in/veeravignesh1
-      - icon: code
-        href: https://github.com/veeravignesh1/veeravignesh.dev/
       - icon: github
         href: https://github.com/veeravignesh1
-      - icon: twitter
-        href: https://twitter.com/veeravignesh1
+      
   sidebar: 
     # Have used a temporary workaround for the expected behaviour of displaying sidebar in all pages
     # Have turned off sidebar in other pages that is not required
@@ -69,11 +61,11 @@ website:
 format:
   html:
     theme:
-      dark: [zephyr,dark.scss]
-      light: [zephyr,light.scss]
-    # mainfont: Cambria, "Times New Roman", Times, serif
-    fontsize: 1.1rem
-    css: styles.css
+      dark: darkly
+      light: flatly
+    mainfont: Georgia, serif;
+    # fontsize: 1.1rem
+    # css: styles.css
     link-external-newwindow: true
     # link-external-filter: '^(?:http:|https:)\/\/veeravignesh\.dev\/'
 
